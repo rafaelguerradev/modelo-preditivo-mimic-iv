@@ -4,7 +4,7 @@ Modelo preditivo para estimar o risco de readmissão hospitalar em até 30 dias
 em pacientes adultos de UTI, usando a base pública **MIMIC-IV**.
 
 > 📄 Este projeto também foi apresentado como resumo expandido no **XI SAPCT —
-> SENAI CIMATEC (2026)** e teve artigo aceito no **SIINTEC 2026**.
+> SENAI CIMATEC (2026)**.
 
 ## Problema
 
